@@ -1,0 +1,53 @@
+﻿<Window x:Class="TestExecute1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestExecute1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="750" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="200"></RowDefinition>
+            <RowDefinition Height="300"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock Text="Count: " FontSize="30" x:Name="CountTB_TextRead"></TextBlock>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="1">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Button x:Name="Reader1Bt" Content="Читатель 1" Margin="10"></Button>
+                <Button x:Name="Reader2Bt" Content="Читатель 2" Margin="10"></Button>
+                <Button x:Name="Reader3Bt" Content="Читатель 3" Margin="10"></Button>
+                <Button x:Name="Reader4Bt" Content="Читатель 4" Margin="10"></Button>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="2">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Horizontal">
+                <StackPanel Margin="20">
+                    <TextBox x:Name="Writer1TextBox"></TextBox>
+                    <Button Content ="Записать значение" x:Name="Writer1Bt"></Button>
+                </StackPanel>
+                <StackPanel Margin="20">
+                <TextBox x:Name="Writer2TextBox"></TextBox>
+                <Button Content ="Записать значение"  x:Name="Writer2Bt"></Button>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="3">
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top">
+                <TextBlock Text="Еще одна более наглядная реализация" FontSize="20">
+                    
+                </TextBlock>
+                <Button x:Name="lvButton" Content="Посмотреть выполнение"></Button>
+            </StackPanel>
+            <ListView x:Name="lvCount" Margin="0,52,0,0">
+                
+            </ListView>
+        </Grid>
+    </Grid>
+</Window>
