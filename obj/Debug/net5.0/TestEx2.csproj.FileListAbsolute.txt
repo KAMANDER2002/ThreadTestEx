@@ -1,0 +1,16 @@
+C:\Users\K A M A N D E R\source\repos\TestEx2\bin\Debug\net5.0\TestEx2.exe
+C:\Users\K A M A N D E R\source\repos\TestEx2\bin\Debug\net5.0\TestEx2.deps.json
+C:\Users\K A M A N D E R\source\repos\TestEx2\bin\Debug\net5.0\TestEx2.runtimeconfig.json
+C:\Users\K A M A N D E R\source\repos\TestEx2\bin\Debug\net5.0\TestEx2.runtimeconfig.dev.json
+C:\Users\K A M A N D E R\source\repos\TestEx2\bin\Debug\net5.0\TestEx2.dll
+C:\Users\K A M A N D E R\source\repos\TestEx2\bin\Debug\net5.0\TestEx2.pdb
+C:\Users\K A M A N D E R\source\repos\TestEx2\obj\Debug\net5.0\TestEx2.csproj.AssemblyReference.cache
+C:\Users\K A M A N D E R\source\repos\TestEx2\obj\Debug\net5.0\TestEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K A M A N D E R\source\repos\TestEx2\obj\Debug\net5.0\TestEx2.AssemblyInfoInputs.cache
+C:\Users\K A M A N D E R\source\repos\TestEx2\obj\Debug\net5.0\TestEx2.AssemblyInfo.cs
+C:\Users\K A M A N D E R\source\repos\TestEx2\obj\Debug\net5.0\TestEx2.csproj.CoreCompileInputs.cache
+C:\Users\K A M A N D E R\source\repos\TestEx2\obj\Debug\net5.0\TestEx2.dll
+C:\Users\K A M A N D E R\source\repos\TestEx2\obj\Debug\net5.0\refint\TestEx2.dll
+C:\Users\K A M A N D E R\source\repos\TestEx2\obj\Debug\net5.0\TestEx2.pdb
+C:\Users\K A M A N D E R\source\repos\TestEx2\obj\Debug\net5.0\TestEx2.genruntimeconfig.cache
+C:\Users\K A M A N D E R\source\repos\TestEx2\obj\Debug\net5.0\ref\TestEx2.dll
